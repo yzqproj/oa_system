@@ -7,9 +7,9 @@
 #### ~~后面我会把相关功能再完善完善，大概在 8月底到9月初 会开源出来的。 敬请期待哟~~。
 #### 现已开源，去看看吧.可以加我微信好友一起交流——>  https://gitee.com/aaluoxiang/GarbageSort
  
-<img src="https://images.gitee.com/uploads/images/2019/0730/130939_1e21447e_1277461.jpeg" width="300"  align=center />
+<!-- <img src="https://images.gitee.com/uploads/images/2019/0730/130939_1e21447e_1277461.jpeg" width="300"  align=center /> -->
 
-<img src="https://images.gitee.com/uploads/images/2019/0927/141027_4b404d3b_1277461.jpeg" width="300"  align=center />
+<!-- <img src="https://images.gitee.com/uploads/images/2019/0927/141027_4b404d3b_1277461.jpeg" width="300"  align=center /> -->
 
 <!-- <img src="https://images.gitee.com/uploads/images/2019/0730/114215_38a24a48_1277461.jpeg" width="300"  align=center /> -->
 
