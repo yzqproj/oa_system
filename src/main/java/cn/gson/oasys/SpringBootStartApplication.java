@@ -7,7 +7,7 @@ package cn.gson.oasys;
  */
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.boot.web.support.SpringBootServletInitializer;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 /**
  * 修改启动类，继承 SpringBootServletInitializer 并重写 configure 方法
